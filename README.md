@@ -27,7 +27,7 @@ https://drive.google.com/file/d/19BP85O5LA7DvId2cqABIZikRFoMX5roC/view?usp=drive
 
 ---
 
-![GreenBin Demo](frontend/src/assets/front.png)
+![GreenBin Demo](./GreenBinwebsite/frontend/src/assets/front.png)
 
 --- 
 
