@@ -57,13 +57,7 @@ https://www.youtube.com/watch?v=630HUrYcflU
    - Acts as a platform for promoting eco-friendly practices and supporting environmental causes.
    - Collaborates with environmental organizations to maximize its reach and impact.
 
----
 
-## 💻 Tech Stack
-- **Language/Framework**: React.js, Node.js, Express.js, Python, TensorFlow, Keras, NumPy
-- **Tools**: VS Code, Jupyter Notebook, Gemini
-- **Database**: MongoDB
-- **Cloud**: MongoDB Atlas, Google Cloud for green cloud integration
 --- 
 
 ## 📱 Applications
