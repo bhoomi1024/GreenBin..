@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=630HUrYcflU
 
 ---
 
-![GreenBin Demo](frontend/src/assets/app.png)
+![GreenBin Demo](GreenBin website/frontend/src/assets/app.png)
 
 --- 
 
